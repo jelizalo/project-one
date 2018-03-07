@@ -35,11 +35,8 @@ None will be used
 
 ## 7. Rough Breakdown of Tasks ##
 * Sort through different datasets (decide which factors to research)
-⋅⋅* Create dataframes organizing data
 * Review and clean-up unused/unneeded data and information
 * Create charts for each topic
-⋅⋅* Using Matplotlib/Seaborn
-⋅⋅* Save .png of images
 * Analyze results and make conclusions
 * Compile information and create presentation
 * Practice presentation
