@@ -1,0 +1,52 @@
+State,State1,Average New SAT Score,Participation Rate
+AL,Alabama,998,0.07
+AK,Alaska,1037,0.54
+AZ,Arizona,1045,0.36
+AR,Arkansas,1034,0.04
+CA,California,1053,0.6
+CO,Colorado,1090,0.14
+CT,Connecticut,1126,0.88
+DE,Delaware,1015,1
+FL,District of Columbia,1012,1
+GA,Florida,1073,0.72
+HI,Georgia,1080,0.77
+ID,Hawaii,1056,0.63
+IL,Idaho,1056,1
+IN,Illinois,1101,0.05
+IA,Indiana,1075,0.71
+KS,Iowa,1098,0.03
+KY,Kansas,1081,0.05
+LA,Kentucky,1064,0.05
+ME,Louisiana,1011,0.05
+MD,Maine,1008,0.96
+MA,Maryland,1057,0.78
+MI,Massachusetts,1130,0.84
+MN,Michigan,1086,0.04
+MS,Minnesota,1107,0.06
+MO,Mississippi,1035,0.03
+MT,Missouri,1089,0.04
+NE,Montana,1039,0.18
+NV,Nebraska,1070,0.04
+NH,Nevada,1017,0.54
+NJ,New Hampshire,1101,0.7
+NM,New Jersey,1104,0.79
+NY,New Mexico,1016,0.12
+NC,New York,1062,0.76
+ND,North Carolina,1062,0.64
+OH,North Dakota,1099,0.02
+OK,Ohio,1051,0.15
+OR,Oklahoma,1043,0.05
+PA,Oregon,1058,0.48
+RI,Pennsylvania,1044,0.71
+SC,Rhode Island,1042,0.73
+SD,South Carolina,1056,0.65
+TN,South Dakota,1099,0.03
+TX,Tennessee,1054,0.08
+UT,Texas,1026,0.62
+VT,Utah,1027,0.05
+VA,Vermont,1093,0.63
+WA,Virginia,1099,0.73
+WV,Washington,1057,0.63
+WI,West Virginia,963,0.15
+WY,Wisconsin,1096,0.04
+,Wyoming,1067,0.03
