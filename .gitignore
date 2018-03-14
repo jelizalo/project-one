@@ -101,5 +101,6 @@ ENV/
 .mypy_cache/
 
 config.py
+config2.py
 
 .DS_Store
