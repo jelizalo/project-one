@@ -448,9 +448,6 @@ py.iplot(map)
 
 
 
-    <matplotlib.figure.Figure at 0x1138e65f8>
-
-
 ### Teen Pregnancy Rate by State ###
 
 
@@ -549,7 +546,7 @@ py.iplot(map)
 
 
 
-    <matplotlib.figure.Figure at 0x1139cd208>
+![TeenPregnancy](/Images/PregRate.png)
 
 
 ### Spending per Student by State ###
@@ -641,7 +638,7 @@ py.iplot(map)
 
 
 
-    <matplotlib.figure.Figure at 0x1139178d0>
+![SpendingPerStudent](/Images/StuSpend.png)
 
 
 ### Average SAT Scores by State ###
@@ -820,7 +817,7 @@ py.iplot(map)
 
 
 
-    <matplotlib.figure.Figure at 0x1139ff9b0>
+![SATScores](/Images/AvgSAT.png)
 
 
 ### Average Graduation Rates by State ###
@@ -1910,12 +1907,13 @@ plt.legend(loc=4, prop={'size': 55})
 
 
 
-    <matplotlib.legend.Legend at 0x111ae65f8>
 
 
 
 
-![png](output_38_1.png)
+
+![png](/Images/output_38_1.png)
+
 
 
 **What States have closed the gap between low-income and non-low-income graduation rates?**
@@ -2002,12 +2000,10 @@ plt.legend(loc=0, prop={'size': 40})
 
 
 
-    <matplotlib.legend.Legend at 0x1a1b3959e8>
 
 
 
-
-![png](output_42_1.png)
+![png](/Images/output_42_1.png)
 
 
 ### Merging Dataframes ###
@@ -3786,6 +3782,7 @@ layout = go.Layout(
 fig = go.Figure(data=data, layout=layout)
 plot_url = py.plot(fig, filename='multiple-axes-multiple')
 ```
+![scatter plot](/Images/GradRates_Race.png)
 
 ### Graduation Rate v. Average Teacher Salary ###
 
@@ -3812,7 +3809,7 @@ plt.show()
 ```
 
 
-![png](output_59_0.png)
+![png](/Images/GradRates_vs_Salary.png)
 
 
 ### Graduation Rate vs. Average SAT Score ###
@@ -3840,7 +3837,7 @@ plt.show()
 ```
 
 
-![png](output_61_0.png)
+![png](/Images/GradRates_vs_SAT.png)
 
 
 ### Graduation Rate vs. Pregnancy Rate ###
@@ -3868,7 +3865,7 @@ plt.show()
 ```
 
 
-![png](output_63_0.png)
+![png](/Images/GradRates_vs_PregRate.png)
 
 
 ### Gradution Rates vs. Spending per Student ###
@@ -3896,7 +3893,7 @@ plt.show()
 ```
 
 
-![png](output_65_0.png)
+![png](/Images/GradRates_vs_StuSpend.png)
 
 
 ### Data and Resources Used ###
